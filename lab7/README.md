@@ -8,7 +8,7 @@
 
 ![lab7](../images/lab7/Screenshot_3.png)
 
-![lab7](../images/lab7/Screenshot_4.png)
+![lab7](../images/lab7/Screenshot_14.png)
 
 3. Go to Management > Dev Tools > Console and run this code: 
 
@@ -23,5 +23,5 @@ GET _search
 }}
 `
 
-![lab7](../images/lab7/Screenshot_5.png)
+![lab7](../images/lab7/Screenshot_4.png)
 
